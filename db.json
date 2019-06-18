@@ -12,5 +12,5 @@
   "profile": {
     "name": "typicode"
   },
-  "user": { "name": "xyz", "email": "xyz@gmail.com"}
+  "users": { "name": "xyz", "email": "xyz@gmail.com", "departments": ["A","B"]}
 }
